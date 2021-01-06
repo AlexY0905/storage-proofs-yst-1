@@ -25,7 +25,7 @@ default-features = false
 
 [dependencies.storage-proofs-porep]
 git = "https://github.com/AlexY0905/Storage-Proofs-Porep.git"
-rev = "cf8a753"
+rev = "5cb5907"
 
 [dependencies.storage-proofs-post]
 version = "^5.0.0"
