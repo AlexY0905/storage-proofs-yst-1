@@ -19,6 +19,7 @@ description = "Implementations of Proofs of Storage"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/AlexY0905/storage-proofs-yst-1.git"
+
 [dependencies.storage-proofs-core]
 version = "^5.0.0"
 default-features = false
@@ -30,6 +31,9 @@ rev = "efc6e08e1858167805ad3d89de58d563bca3407b"
 [dependencies.storage-proofs-post]
 version = "^5.0.0"
 default-features = false
+
+[dependencies.neptune]
+version = "=2.2.0"
 
 [features]
 asm = ["storage-proofs-core/asm"]
