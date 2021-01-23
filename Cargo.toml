@@ -19,13 +19,16 @@ description = "Implementations of Proofs of Storage"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/AlexY0905/storage-proofs-yst-1.git"
+
 [dependencies.storage-proofs-core]
 version = "^5.0.0"
 default-features = false
+git = "https://github.com/AlexY0905/storage-proofs-core-yst-1.git"
+rev = "ad0888f"
 
 [dependencies.storage-proofs-porep]
 git = "https://github.com/AlexY0905/Storage-Proofs-Porep.git"
-rev = "5cb5907"
+rev = "46b841f"
 
 [dependencies.storage-proofs-post]
 version = "^5.0.0"
