@@ -34,7 +34,7 @@ rev = "46b841f"
 version = "^5.0.0"
 default-features = false
 git = "https://github.com/AlexY0905/storage-proofs-post-yst-1.git"
-rev = "9023823"
+rev = "04504e2"
 
 [features]
 asm = ["storage-proofs-core/asm"]
