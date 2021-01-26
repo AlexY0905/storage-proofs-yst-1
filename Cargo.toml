@@ -28,7 +28,7 @@ rev = "c9b9650"
 
 [dependencies.storage-proofs-porep]
 git = "https://github.com/AlexY0905/Storage-Proofs-Porep.git"
-rev = "83c6aab"
+rev = "67614ee"
 
 [dependencies.storage-proofs-post]
 version = "^5.0.0"
