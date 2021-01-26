@@ -24,17 +24,17 @@ repository = "https://github.com/AlexY0905/storage-proofs-yst-1.git"
 version = "^5.0.0"
 default-features = false
 git = "https://github.com/AlexY0905/storage-proofs-core-yst-1.git"
-rev = "0724fb5"
+rev = "5cd2a1b"
 
 [dependencies.storage-proofs-porep]
 git = "https://github.com/AlexY0905/Storage-Proofs-Porep.git"
-rev = "3524ce4"
+rev = "086d299"
 
 [dependencies.storage-proofs-post]
 version = "^5.0.0"
 default-features = false
 git = "https://github.com/AlexY0905/storage-proofs-post-yst-1.git"
-rev = "6a53ad8"
+rev = "f81ee5a"
 
 [features]
 asm = ["storage-proofs-core/asm"]
